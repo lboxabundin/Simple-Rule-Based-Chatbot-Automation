@@ -1,0 +1,8 @@
+# Pattern-response pairs
+rules:
+  - pattern: "hello"
+    response: "Hello! How can I assist you today?"
+  - pattern: "help"
+    response: "Sure, tell me what you need help with."
+  - pattern: "bye"
+    response: "Goodbye! Have a great day!"
